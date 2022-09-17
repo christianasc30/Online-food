@@ -1,0 +1,11 @@
+Start
+Read and write "buka gofood"
+read and write "pilih restoran"
+read and write "pilih makanan"
+read and write "pilih jumlah pesanan"
+if (ingin menambah makanan") then
+	back to "pilih makanan"
+else 
+	read and write "pilih metode bayar"
+read and write "makanan diantarkan"
+end
